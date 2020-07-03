@@ -20,7 +20,3 @@ Para iniciar o **projeto local**, usando yarn ou npm:
 > yarn start
 
 > npm start
-
-## Deploy
-
-> 
