@@ -2,7 +2,7 @@
 
 Criação de API com NodeJs e MongoDB.
 
-Tecnologias utilizadas: NodeJS, Docker, MongoDB, Robo 3T, Insomnia e Heroku.
+Tecnologias utilizadas: NodeJS, Docker, MongoDB, Robo 3T e Insomnia.
 
 ## Como Iniciar 
 
